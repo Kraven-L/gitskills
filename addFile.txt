@@ -1,4 +1,4 @@
 this is a add file.
 Creating a new branch is quick and simple.
-add merge
 Git is a free software...
+I'm doing my work,but I have a bug to fix.
